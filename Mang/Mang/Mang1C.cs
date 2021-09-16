@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Mang
 {
@@ -62,7 +62,7 @@ namespace Mang
         }
 
         // Dem so luong so nguyen duong chan
-        public static int CountPositiveNum(int [] a)
+        public static int CountPositiveNum(int[] a)
         {
             int dem = 0;
             //Console.WriteLine("Tien hanh tim so luong so nguyen duong chan: ");
@@ -73,6 +73,17 @@ namespace Mang
             return dem;
         }
 
+        // Dem so chan
+        public static int CountNum(int[] a)
+        {
+            int dem = 0;
+            for (int i = 0; i < a.Length; i++)
+            {
+                if (a[i] % 2 == 0) dem++;
+            }
+            return dem;
+
+        }
         // Tinh trung binh cong
         public static double Average(int [] a)
         {
@@ -95,7 +106,7 @@ namespace Mang
         // Tao mang chua cac phan tu so chan
         public static int[] NewArray(int [] a)
         {
-            int soluong = CountPositiveNum(a);
+            int soluong = CountNum(a);
             int dem = 0;
             int[] b = new int[soluong];
             
@@ -118,10 +129,11 @@ namespace Mang
             Console.WriteLine("Phan tu lon nha trong mang la: {0}", FindMax(A));
             Console.WriteLine("Phan tu nho nhat trong mang la: {0}", FindMin(A));
             Console.WriteLine("Trung binh cong cua cac phan tu trong mang la: {0}", Average(A));
+            Console.WriteLine("So luong cac so duong chan la: {0}", CountPositiveNum(A));
             if (CountPositiveNum(A) == 0) Console.WriteLine("Khong co phan tu chan nao trong mang nen khong tao duoc mang moi.");
             else
             {
-                Console.WriteLine("Tien hanh tao mang moi voi {0} phan tu chan tu mang truoc: ", CountPositiveNum(A));
+                Console.WriteLine("Tien hanh tao mang moi voi {0} phan tu chan tu mang truoc: ", CountNum(A));
                 int[] B = NewArray(A);
                 Xuat(B);
             }
