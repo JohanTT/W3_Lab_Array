@@ -1,0 +1,1 @@
+Lệnh sort bài 2 vẫn chưa được tối ưu lắm :v có ai giúp tối ưu hóa nó được không.
