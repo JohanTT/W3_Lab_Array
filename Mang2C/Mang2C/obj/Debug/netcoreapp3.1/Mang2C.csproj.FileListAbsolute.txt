@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Mang2C\Mang2C\bin\Debug\netcoreapp3.1\Mang2C.exe
+C:\Users\Admin\source\repos\Mang2C\Mang2C\bin\Debug\netcoreapp3.1\Mang2C.deps.json
+C:\Users\Admin\source\repos\Mang2C\Mang2C\bin\Debug\netcoreapp3.1\Mang2C.runtimeconfig.json
+C:\Users\Admin\source\repos\Mang2C\Mang2C\bin\Debug\netcoreapp3.1\Mang2C.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Mang2C\Mang2C\bin\Debug\netcoreapp3.1\Mang2C.dll
+C:\Users\Admin\source\repos\Mang2C\Mang2C\bin\Debug\netcoreapp3.1\Mang2C.pdb
+C:\Users\Admin\source\repos\Mang2C\Mang2C\obj\Debug\netcoreapp3.1\Mang2C.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Mang2C\Mang2C\obj\Debug\netcoreapp3.1\Mang2C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Mang2C\Mang2C\obj\Debug\netcoreapp3.1\Mang2C.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Mang2C\Mang2C\obj\Debug\netcoreapp3.1\Mang2C.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Mang2C\Mang2C\obj\Debug\netcoreapp3.1\Mang2C.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Mang2C\Mang2C\obj\Debug\netcoreapp3.1\Mang2C.dll
+C:\Users\Admin\source\repos\Mang2C\Mang2C\obj\Debug\netcoreapp3.1\Mang2C.pdb
+C:\Users\Admin\source\repos\Mang2C\Mang2C\obj\Debug\netcoreapp3.1\Mang2C.genruntimeconfig.cache
